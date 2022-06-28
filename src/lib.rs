@@ -10,3 +10,6 @@ mod reverse_string;
 mod reverse_words_in_a_string_iii;
 mod middle_of_the_linked_list;
 mod remove_nth_from_end;
+mod partitioning_into_minimum_number_of_deci_binary_numbers;
+mod powx_n;
+mod group_anagrams;
