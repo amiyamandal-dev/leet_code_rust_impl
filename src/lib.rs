@@ -19,3 +19,5 @@ mod running_sum_of_1d_array;
 mod prime_number_of_set_bits_in_binary_representation;
 mod candy;
 mod rotate_image;
+mod minimum_deletions_to_make_character_frequencies_unique;
+mod queue_reconstruction_by_height;
