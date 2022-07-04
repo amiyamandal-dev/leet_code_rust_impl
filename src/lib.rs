@@ -16,3 +16,6 @@ mod group_anagrams;
 mod min_max_game;
 mod valid_parentheses;
 mod running_sum_of_1d_array;
+mod prime_number_of_set_bits_in_binary_representation;
+mod candy;
+mod rotate_image;
