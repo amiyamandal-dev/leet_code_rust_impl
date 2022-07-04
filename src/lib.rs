@@ -13,3 +13,6 @@ mod remove_nth_from_end;
 mod partitioning_into_minimum_number_of_deci_binary_numbers;
 mod powx_n;
 mod group_anagrams;
+mod min_max_game;
+mod valid_parentheses;
+mod running_sum_of_1d_array;
