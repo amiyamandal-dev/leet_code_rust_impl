@@ -21,3 +21,7 @@ mod candy;
 mod rotate_image;
 mod minimum_deletions_to_make_character_frequencies_unique;
 mod queue_reconstruction_by_height;
+mod median_of_two_sorted_arrays;
+mod longest_consecutive_sequence;
+mod how_many_numbers_are_smaller_than_the_current_number;
+mod fibonacci_number;
