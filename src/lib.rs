@@ -25,3 +25,7 @@ mod median_of_two_sorted_arrays;
 mod longest_consecutive_sequence;
 mod how_many_numbers_are_smaller_than_the_current_number;
 mod fibonacci_number;
+mod find_pivot_index;
+mod urlify;
+mod reverse_linked_list;
+mod climbing_stairs;
