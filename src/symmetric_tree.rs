@@ -42,7 +42,7 @@ impl Solution {
                 let l = left_t.borrow();
                 let r = right_t.borrow();
                 if l.val == r.val {
-                    let t1 =  Solution::is_mirror(l.left.clone(), r.right.clone());
+                    let t1 = Solution::is_mirror(l.left.clone(), r.right.clone());
                     let t2 = Solution::is_mirror(l.right.clone(), r.left.clone());
                     return t2 && t1;
                 }
