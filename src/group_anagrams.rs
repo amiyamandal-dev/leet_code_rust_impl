@@ -62,7 +62,8 @@ mod tests {
         //     "nat".to_string(),
         //     "bat".to_string(),
         // ]);
-        let j = Solution::group_anagrams(vec!["ddddddddddg".to_string(),"dgggggggggg".to_string()]);
+        let j =
+            Solution::group_anagrams(vec!["ddddddddddg".to_string(), "dgggggggggg".to_string()]);
         println!("{:?}", j);
     }
 }

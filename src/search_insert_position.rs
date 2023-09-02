@@ -21,10 +21,10 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use super:: Solution;
+    use super::Solution;
     #[test]
     fn it_works() {
-        let result = Solution::search_insert(vec![1,3,5,6], 5);
+        let result = Solution::search_insert(vec![1, 3, 5, 6], 5);
         assert_eq!(result, 2);
     }
 }
