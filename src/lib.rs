@@ -17,13 +17,7 @@ mod partitioning_into_minimum_number_of_deci_binary_numbers;
 mod powx_n;
 mod prime_number_of_set_bits_in_binary_representation;
 mod queue_reconstruction_by_height;
-<<<<<<< HEAD
-mod median_of_two_sorted_arrays;
-mod longest_consecutive_sequence;
-mod how_many_numbers_are_smaller_than_the_current_number;
-mod fibonacci_number;
 mod swapping_nodes_in_a_linked_list;
-=======
 mod remove_nth_from_end;
 mod reverse_linked_list;
 mod reverse_string;
@@ -39,4 +33,4 @@ mod symmetric_tree;
 mod two_sum_ii_input_array_is_sorted;
 mod urlify;
 mod valid_parentheses;
->>>>>>> a526b60cdc893173f3158861eef798a3686cec3b
+mod generate_parentheses;
