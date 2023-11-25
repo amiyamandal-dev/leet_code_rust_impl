@@ -35,3 +35,8 @@ mod symmetric_tree;
 mod two_sum_ii_input_array_is_sorted;
 mod urlify;
 mod valid_parentheses;
+mod combination_sum;
+mod letter_combinations_of_a_phone_number;
+mod word_search;
+mod subsets;
+mod Subsets;
